@@ -1,0 +1,34 @@
+{
+    "name": "installs",
+    "version": "0.0.0",
+    "description": "Pod Point Installations",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "gulp-changed": "^0.3.0",
+        "gulp-cssmin": "^0.1.5",
+        "gulp-clean": "^0.2.4",
+        "gulp-less": "^1.2.3",
+        "gulp": "^3.6.2",
+        "gulp-concat": "^2.2.0",
+        "gulp-jshint": "^1.6.1",
+        "gulp-minify-css": "^0.3.4",
+        "gulp-uglify": "^0.3.0"
+    },
+    "devDependencies": {
+        "gulp-rename": "^1.2.0",
+        "gulp-uglify": "^0.3.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Pod-Point/installs.git"
+    },
+    "author": "Pod Point",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pod-Point/installs/issues"
+    },
+    "homepage": "https://github.com/Pod-Point/installs"
+}
